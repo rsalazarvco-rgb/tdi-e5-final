@@ -1,7 +1,7 @@
-# tdi-e5-final
+## tdi-e5-final
 Etapa 5: Proyecto del Curso - Tratamiento de Imágenes (UNAD).  Pipeline completo en MATLAB para adquisición, segmentación, binarización, filtrado morfológico, extracción de características y entrenamiento supervisado (SVM y método de umbral).
+
 **Versión validada:** MATLAB R2025b
----
 
 ## Descripción general:
 Este repositorio implementa un flujo completo de visión por computador basado en procesamiento morfológico, extracción de características y modelos supervisados clásicos. El trabajo fue desarrollado como parte de la **Etapa 5 del curso “Tratamiento de Imágenes” – UNAD**.
@@ -16,7 +16,6 @@ Incluye:
   - Clasificación mediante umbral 2D.
 
 El código está validado para **MATLAB R2025b** y diseñado para ejecución reproducible.
----
 
 ## Estructura del repositorio:
 
