@@ -1,6 +1,7 @@
 # tdi-e5-final
 Etapa 5: Proyecto del Curso - Tratamiento de Imágenes (UNAD).  Pipeline completo en MATLAB para adquisición, segmentación, binarización, filtrado morfológico, extracción de características y entrenamiento supervisado (SVM y método de umbral).
-## Resumen del Pull Request
+
+## Resumen del Pull Request:
 Este PR incorpora los scripts de clasificación supervisada y evaluación del desempeño para el proyecto de Tratamiento de Imágenes. Se implementan y comparan tres clasificadores (SVM lineal, Perceptrón lineal y clasificador por umbral) a partir de las características geométricas extraídas (Centroide_X, Centroide_Y, Circularidad) y se generan matrices de confusión, métricas y puntos ROC.
 
 ### Contenido Principal
